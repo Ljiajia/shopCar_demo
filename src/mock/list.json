@@ -1,0 +1,38 @@
+[{
+    "img": "1.png",
+    "title": "鸡胗",
+    "info": "小包装",
+    "price": 10,
+    "oldprice": 15,
+    "id": 0
+}, {
+    "img": "2.png",
+    "title": "汉堡",
+    "info": "小包装",
+    "price": 12,
+    "oldprice": 18,
+    "id": 1
+
+}, {
+    "img": "3.png",
+    "title": "鸡腿",
+    "info": "小包装",
+    "price": 15,
+    "oldprice": 22,
+    "id": 2
+
+}, {
+    "img": "4.png",
+    "title": "鸡叉骨",
+    "info": "小包装",
+    "price": 8,
+    "oldprice": 17,
+    "id": 3
+}, {
+    "img": "5.png",
+    "title": "鸡翅",
+    "info": "小包装",
+    "price": 6,
+    "oldprice": 8,
+    "id": 4
+}]
